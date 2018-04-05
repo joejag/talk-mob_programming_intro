@@ -41,3 +41,14 @@ I'm going to tell you some of the specifics, but a lot of it is encapsulated in 
   * Turn up the good - enhance it
   * Be nice -  "We made a commitment to treat each with kindness, respect and consideration" he said. "In the process, you become a better person."
   * Work sustainably - take breaks - don't break eight hours
+
+
+
+---
+
+
+Kindness: Act in a kindly way. Be warm-hearted, gentle and polite. Display a pleasant disposition to others. Show concern for others.
+
+Consideration: Consider your team members’ ideas. To do this we need to be able to listen. To listen requires humility. Our own idea is only one possible way. We need to try the other ideas rather than simply finding reasons not to try them.
+
+Respect: Respect is like a diplomatic protocol. It’s about allowing others to keep their self-esteem. We can disagree, and still be respectful. Disagreements generate ideas but those ideas cannot flourish in a disrespectful environment.
