@@ -22,7 +22,7 @@
 
 - Hear (10m)
 - Try (90m)
-- Reflect (20m)
+- Reflect (10m)
 
 ![left](agenda.jpg)
 
@@ -34,7 +34,7 @@
 
 # Timer
 
-* 7 Minutes each - then rotate
+* 4 Minutes each - then rotate
 * The person at the keyboard is a typist
 
 ![right](stop-watch.png)
@@ -48,27 +48,46 @@
 
 ---
 
-# Make it easy
-
-* Know what example the mob is solving
-* Speak at the right level of abstraction
-* The typist has to trust their navigators
-
----
 
 # Safety
 
 ## We made a commitment to treat each with kindness, respect and consideration
 
 ---
+# http://bit.do/glasgowrose
+
+You are maintaining the sofware for a shop called the Gilded Rose.
+
+The goal is the get the code into a good state to add a new feature.
+
+You are not allowed to edit the *Item* class
+
+---
+
+## Six core refactorings
+
+* Rename
+* Extract Method
+* Introduce Local Variable
+* Introduce Parameter
+* Introduce Field
+* Inline
+
+---
+
+But first...
+
+# Sparrows
+
+---
 
 ![](lets-do-this.jpg)
-
 
 ---
 
 ## What are your questions?
 
-### *Joe Wright* *@joe_jag* : *Caroline Kirkhope* *@cazkirkhope*
-### *Gary Fleming* *@garyfleming* : *Keith Kirkhope* *@kkirkhope*
+### *Joe Wright* *@joe_jag*
+### *Iain Cattanach* *@jampiles*
+### *Keith Kirkhope* *@kkirkhope*
 ### *Gordon McMahon* *@gordonmcmahon*
