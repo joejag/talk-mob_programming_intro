@@ -1,4 +1,4 @@
-# Introduction to Mob Programming
+# Power of refactoring as a team
 
 ### *Joe Wright*
 #### __@joe_jag__
@@ -7,28 +7,6 @@
 
 > All the brilliant people working on the same thing, at the same time, in the same space, and on the same computer.
 --Woody Zuill
-
----
-
-![](kim-jong-un-scary.jpg)
-
----
-
-![](kim-jong-un-happy.jpg)
-
----
-
-# Agenda
-
-- Hear (10m)
-- Try (90m)
-- Reflect (10m)
-
-![left](agenda.jpg)
-
----
-
-# Video Time
 
 ---
 
@@ -47,7 +25,6 @@
 --Llewellyn Falco.
 
 ---
-
 
 # Safety
 
@@ -88,6 +65,3 @@ But first...
 ## What are your questions?
 
 ### *Joe Wright* *@joe_jag*
-### *Iain Cattanach* *@jampiles*
-### *Keith Kirkhope* *@kkirkhope*
-### *Gordon McMahon* *@gordonmcmahon*
